@@ -1,40 +1,43 @@
-CS50 Artificial Intelligence with Python — Projects & Notes
+# CS50 Artificial Intelligence with Python — Projects & Notes
 
-This repository contains my projects, solutions, and notes for Harvard’s CS50 Artificial Intelligence course.
-The course covers foundational AI concepts such as:
+This repository contains my projects, solutions, and notes for **Harvard’s CS50AI – Introduction to Artificial Intelligence with Python**.  
+The course explores foundational AI concepts, including:
 
--Search algorithms
--Knowledge representation
--Probabilistic reasoning
--Optimization
--Machine learning
--Neural networks
--Natural language processing
+- Search algorithms  
+- Knowledge representation  
+- Probabilistic reasoning  
+- Optimization  
+- Machine learning  
+- Neural networks  
+- Natural language processing  
 
-📁 Topics Covered
-introduction/
-search/
-knowledge/
-uncertainty/
-optimization/
-learning/
-neural-networks/
-language/
+---
 
+## 📁 Topics Covered
 
-Each folder contains:
+- `introduction/`  
+- `search/`  
+- `knowledge/`  
+- `uncertainty/`  
+- `optimization/`  
+- `learning/`  
+- `neural-networks/`  
+- `language/`  
 
--Code implementations
--Project solutions
--Notes & explanations
+Each folder will contain:
 
-🧠 Skills Strengthened
+- Code implementations  
+- Project solutions  
+- Notes and explanations  
 
--Python
--Logic & search algorithms
--Probability & statistics
--Machine learning models
+---
 
-Neural network basics
+## 🧠 Skills Strengthened
 
-NLP fundamentals
+- Python  
+- Logic & search algorithms  
+- Probability & statistics  
+- Machine learning models  
+- Neural network fundamentals  
+- NLP foundations  
+
